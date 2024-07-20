@@ -1,0 +1,5 @@
+UYE06,Alança Toprak,alançatpr01@gmail.com,05593628486
+UYE05,Selenay Kara,selenaykr21@gmail.com,05574745984
+UYE03,Selime Can,canselime13@gmail.com,05536995578
+UYE02,Hasan Zorlu,hsanzrl26@gmail.com,05532874235
+UYE01,İbrahim Çim,ibrahm25@gmail.com,05548714565

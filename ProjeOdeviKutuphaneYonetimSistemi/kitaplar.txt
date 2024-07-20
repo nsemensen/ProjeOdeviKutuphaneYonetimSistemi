@@ -1,0 +1,4 @@
+KTP01,Sefiller,Victor Hugo,1862,Dünya Klasikleri,false
+KTP03,Anna Karenina,Lev Tolstoy,1877,Dünya Klasikleri,false
+KTP04,Sis ve Gece,Ahmet Ümit,1996,Polisiye,false
+KTP05,Gözlerini Sımsıkı Kapat,Jhon Verdon,2012,Polisiye,true
